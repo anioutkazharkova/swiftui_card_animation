@@ -1,2 +1,2 @@
-# swiftui_card_animation
+# Swiftui card animation
 SwitUI animated cards for Podlodka challenge
